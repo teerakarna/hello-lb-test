@@ -1,2 +1,2 @@
 # hello-lb-test
-Demo of a load-balanced app for Kubernetes
+Demo load-balanced app for Kubernetes
